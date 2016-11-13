@@ -1,16 +1,14 @@
 import React from 'react';
 import { Link } from 'react-router';
 
-const Photogrid = React.createClass({
+const PhotoGrid = React.createClass({
   render() {
     return (
       <div>
-        <h1>
-          <Link to="/">Reduxstagram</Link>
-        </h1>
+        Photogrid
       </div>
     );
   }
 });
 
-export default Photogrid;
+export default PhotoGrid;
