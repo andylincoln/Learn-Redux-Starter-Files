@@ -1,5 +1,5 @@
 import Raven from 'raven-js';
-const sentry_key = '46860ad1046a48dc85f42a910e7fa2e0:515841646dd547d1b5236824ca0d413a';
+const sentry_key = '46860ad1046a48dc85f42a910e7fa2e0';
 const sentry_app = '114504';
 export const sentry_url = `https://${sentry_key}@app.getsentry.com/${sentry_app}`;
 
