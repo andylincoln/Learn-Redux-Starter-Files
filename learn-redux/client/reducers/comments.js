@@ -4,8 +4,11 @@
 // 2. The copy of the curtrent state
 
 function comments(state = [], action) {
-  console.log("The comments will change");
-  console.log(state, action);
+  // switch () {
+  //   case "":
+  //   default:
+  //     return state;
+  //   }
   return state;
 }
 
