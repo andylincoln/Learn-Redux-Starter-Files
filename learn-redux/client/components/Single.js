@@ -5,9 +5,7 @@ const Photogrid = React.createClass({
   render() {
     return (
       <div>
-        <h1>
-          <Link to="/">Reduxstagram</Link>
-        </h1>
+        I'm the Single  
       </div>
     );
   }
